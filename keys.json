@@ -10,10 +10,11 @@
     "VINHTESTKEY": {
         "exp": "2025-11-20",
         "allow_device": null
-    }
+    },
     "TESTTOOL1": {
         "exp": "2025-11-19",
         "allow_device": null
     }
 
 }
+
