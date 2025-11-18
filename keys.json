@@ -1,0 +1,14 @@
+{
+    "VIP1DAY001": {
+        "exp": "2025-02-09",
+        "allow_device": null
+    },
+    "VINH2DAY999": {
+        "exp": "2025-11-20",
+        "allow_device": null
+    },
+    "VINHTESTKEY": {
+        "exp": "2025-11-20",
+        "allow_device": null
+    }
+}
