@@ -8,7 +8,7 @@
         "allow_device": null
     },
     "VINHTESTKEY": {
-        "exp": "2025-11-20",
+        "exp": "2026-11-20",
         "allow_device": null
     },
     "TESTTOOL1": {
@@ -17,4 +17,5 @@
     }
 
 }
+
 
